@@ -1,0 +1,1 @@
+# Place your Bad '.h5' data files in this directory
